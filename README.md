@@ -28,9 +28,9 @@ Step 3: install this
 Step 4 : Enter this Command
 
             pyinstaller --onefile --windowed --icon=app_icon.ico qr_generator.py
-
-        Note : 1. app_icon.ico is your Icon / img name like qr-code.png
-                   2.qr_generator.py is your python file name 
+            
+   Note : 1. app_icon.ico is your Icon / img name like qr-code.png
+          2.qr_generator.py is your python file name 
 
 Step 5: The dict , build and .spec files will be created in the folder 
 
